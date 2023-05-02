@@ -32,8 +32,13 @@
 - `fetch --prune`
 - delete local branch
 
+## Merging branches via PR
+
 - `git log --oneline --graph --all`: show you a decorated history
 - `git push <REMOTE> <BRANCH>`: push a branch to the remote, pay attention to what branch you're working on
+
+## Clean up branches + history
+
 - `git fetch`: updates the git log / history
   - `git fetch --prune`: deletes any remote branches that were deleted
 - `git branch -d <NAME>`: delete branch on your local machine
