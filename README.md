@@ -48,3 +48,11 @@
 - `git branch -d <NAME>`: delete branch on your local machine
 
 - pull requests will auto update when you push the branch again
+
+## Rebase
+
+- `git fetch --prune`
+- `git switch main`
+- `git pull origin main`
+- `git switch <BRANCH>`
+- `git rebase main`: command to incorporate main into current branch
