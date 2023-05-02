@@ -56,3 +56,6 @@
 - `git pull origin main`
 - `git switch <BRANCH>`
 - `git rebase main`: command to incorporate main into current branch
+changes to b2 commit 1
+Changes to b2 commit 2
+"git push requires 1 PR and 1 review" 
