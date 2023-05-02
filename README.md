@@ -17,7 +17,7 @@
 - `git switch <NAME>`: moves HEAD / switches your branch to <NAME>
   - `git checkout <NAME>` older way to switch branches
 
-## Exercise
+## Exercise 2
 
 - create a branch `branch_defs`
 - edit README
@@ -37,3 +37,5 @@
 - `git fetch`: updates the git log / history
   - `git fetch --prune`: deletes any remote branches that were deleted
 - `git branch -d <NAME>`: delete branch on your local machine
+
+- pull requests will auto update when you push the branch again
