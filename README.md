@@ -59,3 +59,12 @@
 changes to b2 commit 1
 Changes to b2 commit 2
 "git push requires 1 PR and 1 review" 
+
+## Extras
+
+problem: I jsut want tobe at another plance in git. 
+`-git reset --hard <hash>`
+
+ok this much for now right now. 
+
+
