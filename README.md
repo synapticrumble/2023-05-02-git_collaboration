@@ -57,3 +57,4 @@
 - `git switch <BRANCH>`
 - `git rebase main`: command to incorporate main into current branch
 Changes to b1 commit 1
+Changes to b1 commit 2
